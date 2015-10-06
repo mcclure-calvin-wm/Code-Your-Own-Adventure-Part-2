@@ -267,4 +267,4 @@ if (two === "TAKE PILL") {
 //2nd FASTEST TIME 1:41.5 (Daucen)
 //3rd FASTEST TIME 1:41.7 (Zach)
 
-//base time 5:32 (Jacob B.)
+//base time 5:32 (Jacob B.).
